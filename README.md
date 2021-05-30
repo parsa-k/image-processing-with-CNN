@@ -1,2 +1,5 @@
 # image-processing-with-CNN
- implemented binary classification with Convolutional Neural Network (CNN) for image processing.
+ - image processing with CNN.\
+ - binary classification.\
+ - Accuracu= 0.975
+
