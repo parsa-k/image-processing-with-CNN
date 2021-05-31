@@ -7,7 +7,6 @@
 # result
 \
 Network structure\
-\
 ![Network structure](https://raw.githubusercontent.com/parsa-k/image-processing-with-CNN/main/result/Network%20structure.PNG)\
 \
 \
