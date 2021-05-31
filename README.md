@@ -4,4 +4,6 @@
  - binary classification
  - Accuracy of CNN= 0.975
  - The input folder is for your desire image that hasn't been in train or validation images.
+# resilt
+(https://raw.githubusercontent.com/parsa-k/image-processing-with-CNN/main/result/Error%20and%20accuracy%20charts.PNG)
 
